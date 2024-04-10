@@ -8,4 +8,6 @@ This is my read me file
 
 James made some edits here.
 
-A new line
+
+A different new line
+
