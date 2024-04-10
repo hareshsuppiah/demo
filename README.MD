@@ -7,3 +7,5 @@ This is my read me file
 
 
 James made some edits here.
+
+A different new line
